@@ -25,7 +25,6 @@ file_read("my_id", 1)
 
 print("Ex4:")
 
-# def longest_word(filename):
 import re
 
 regex = re.compile('[^a-zA-Z]')
@@ -51,16 +50,6 @@ def longest_words(path):
 
         return list
 print(longest_words("my_id"))
-    # with open(filename, "r") as f:
-    #     words = f.read().split()
-    # for word in words:
-    #         word = regex.sub('', word)
-    #
-    # max_len = len(max(words, key=len))
-    # for word in words:
-    #     if len(word) == max_len:
-    #         return word
-
 
 print("EX5:")
 
