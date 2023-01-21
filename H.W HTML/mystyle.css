@@ -1,0 +1,28 @@
+a.Bottom{
+  display: block;
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom:40em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+a{
+  display: block;
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom:1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+.back-to-top {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+}
+
+
+.hidden {
+  display: none;
+}
